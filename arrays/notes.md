@@ -1,0 +1,1 @@
+Arrays são objetos que ao invés de organizar seus atributos a partir de chaves, organiza a partir de índices.
